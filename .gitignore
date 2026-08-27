@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# C++ build files
+*.pdb
+*.ilk
+*.ipch
+*.obj
+*.idb
+
+# Visual Studio cache
+*.VC.db
+*.VC.VC.opendb

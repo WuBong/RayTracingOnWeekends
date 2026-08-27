@@ -24,6 +24,6 @@ int main()
             std::cout << ir << ' ' << ig << ' ' << ib << '\n';
         }
     }
-
+    //dd
     return 0;
 }
